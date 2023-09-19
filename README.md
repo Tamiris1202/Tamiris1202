@@ -2,6 +2,11 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tamiris1202&hide=issues&show_icons=true&theme=rose)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=rose)
+
+<div>
+<p>Atualmente estou cursando Superior de Desenvolvimento Web, conhecido tambem como brincar com as cores do botão 🤭</p>
+   <p>Procuro sempre melhorar minhas Skills, há sempre mais para acrescentar ♡ </p>
+</div>
 <div>
 <p >ATUALMENTE NAS AQUISIÇÕES 📖</p>
    <img align="center" alt="Rafa-HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
